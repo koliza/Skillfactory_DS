@@ -4,7 +4,7 @@ From the [Skillfactory Data Science course] (https://github.com/koliza/Skillfact
 
 ## Проекты
 
-* [Проект 0. Игра: угадай число] ()
+* [Проект 0. Игра: угадай число] (https://github.com/koliza/Skillfactory_DS/tree/master/project_0)
 * [Проект 1. _____] (____)
 * [Проект 2. _____] (____)
 
